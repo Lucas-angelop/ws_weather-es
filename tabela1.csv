@@ -1,0 +1,291 @@
+CIDADE,CODIGODACIDADE,DATA,REGIAO,PAIS,LATITUDE,LONGITUDE,TEMPERATURAMAXIMA,TEMPERATURAMINIMA,TEMPERATURAMEDIA,VAICHOVER,CHANCECHUVA,CONDICAOTEMPO,NASCER_SOL,POR_SOL,VELOCIDADE_VENTO
+Afonso Claudio,3200102,2023-02-01,Espirito Santo,Brazil,-20.08,-41.13,31.8,19.4,24.3,NAO,0,Partly cloudy,05:29 AM,06:26 PM,7.9
+Afonso Claudio,3200102,2023-02-02,Espirito Santo,Brazil,-20.08,-41.13,31.4,19,24.3,NAO,0,Partly cloudy,05:30 AM,06:26 PM,5.8
+Afonso Claudio,3200102,2023-02-03,Espirito Santo,Brazil,-20.08,-41.13,32,19.7,25,NAO,0,Sunny,05:30 AM,06:25 PM,7.9
+Afonso Claudio,3200102,2023-02-04,Espirito Santo,Brazil,-20.08,-41.13,31.8,19.6,25.1,NAO,0,Partly cloudy,05:31 AM,06:25 PM,6.8
+Afonso Claudio,3200102,2023-02-05,Espirito Santo,Brazil,-20.08,-41.13,32.4,20,23.7,NAO,0,Fog,05:32 AM,06:25 PM,6.1
+Aguia Branca,3200136,2023-02-01,Espirito Santo,Brazil,-18.98,-40.73,29.3,20.4,23.7,NAO,0,Partly cloudy,05:31 AM,06:27 PM,6.8
+Aguia Branca,3200136,2023-02-02,Espirito Santo,Brazil,-18.98,-40.73,28.6,19.9,23.9,NAO,0,Partly cloudy,05:31 AM,06:26 PM,5
+Aguia Branca,3200136,2023-02-03,Espirito Santo,Brazil,-18.98,-40.73,30.5,20.3,24.1,NAO,0,Sunny,05:32 AM,06:26 PM,8.6
+Aguia Branca,3200136,2023-02-04,Espirito Santo,Brazil,-18.98,-40.73,30.3,19,24.7,NAO,0,Sunny,05:32 AM,06:26 PM,6.5
+Aguia Branca,3200136,2023-02-05,Espirito Santo,Brazil,-18.98,-40.73,30.9,21.5,24.3,SIM,83,Patchy rain possible,05:33 AM,06:25 PM,6.8
+Agua Doce Do Mantena,null,2023-02-01,Espirito Santo,Brazil,-18.55,-40.98,31.6,20.1,23.9,SIM,84,Patchy rain possible,05:30 AM,06:24 PM,10.4
+Agua Doce Do Mantena,null,2023-02-02,Espirito Santo,Brazil,-18.55,-40.98,30.5,19.8,24.2,NAO,0,Partly cloudy,05:30 AM,06:24 PM,7.9
+Agua Doce Do Mantena,null,2023-02-03,Espirito Santo,Brazil,-18.55,-40.98,31,19.4,24.3,NAO,0,Sunny,05:31 AM,06:24 PM,9.4
+Agua Doce Do Mantena,null,2023-02-04,Espirito Santo,Brazil,-18.55,-40.98,32.2,19.7,24.1,NAO,0,Partly cloudy,05:31 AM,06:23 PM,7.2
+Agua Doce Do Mantena,null,2023-02-05,Espirito Santo,Brazil,-18.55,-40.98,33.8,20.9,24.2,NAO,0,Fog,05:32 AM,06:23 PM,8.3
+Alfredo Chaves,3200300,2023-02-01,Espirito Santo,Brazil,-20.63,-40.75,30.7,22.3,25.5,SIM,88,Patchy rain possible,05:26 AM,06:27 PM,27.4
+Alfredo Chaves,3200300,2023-02-02,Espirito Santo,Brazil,-20.63,-40.75,30.9,22.7,25.9,NAO,0,Sunny,05:27 AM,06:27 PM,21.2
+Alfredo Chaves,3200300,2023-02-03,Espirito Santo,Brazil,-20.63,-40.75,31.2,22.7,26.1,NAO,0,Sunny,05:27 AM,06:27 PM,24.8
+Alfredo Chaves,3200300,2023-02-04,Espirito Santo,Brazil,-20.63,-40.75,32,23,26.5,NAO,0,Sunny,05:28 AM,06:26 PM,24.5
+Alfredo Chaves,3200300,2023-02-05,Espirito Santo,Brazil,-20.63,-40.75,29.7,24,25.5,SIM,76,Patchy rain possible,05:29 AM,06:26 PM,14
+Alto Rio Novo,3200359,2023-02-01,Espirito Santo,Brazil,-19.07,-41.02,29.3,20.4,23.7,NAO,0,Partly cloudy,05:31 AM,06:27 PM,6.8
+Alto Rio Novo,3200359,2023-02-02,Espirito Santo,Brazil,-19.07,-41.02,28.6,19.9,23.9,NAO,0,Partly cloudy,05:31 AM,06:26 PM,5
+Alto Rio Novo,3200359,2023-02-03,Espirito Santo,Brazil,-19.07,-41.02,30.5,20.3,24.1,NAO,0,Sunny,05:32 AM,06:26 PM,8.6
+Alto Rio Novo,3200359,2023-02-04,Espirito Santo,Brazil,-19.07,-41.02,30.3,19,24.7,NAO,0,Sunny,05:32 AM,06:26 PM,6.5
+Alto Rio Novo,3200359,2023-02-05,Espirito Santo,Brazil,-19.07,-41.02,30.9,21.5,24.3,SIM,83,Patchy rain possible,05:33 AM,06:25 PM,6.8
+Apiaca,3200508,2023-02-01,Espirito Santo,Brazil,-21.13,-41.57,32.1,19.3,24.9,SIM,89,Patchy rain possible,05:27 AM,06:28 PM,7.9
+Apiaca,3200508,2023-02-02,Espirito Santo,Brazil,-21.13,-41.57,34.5,20.5,26.1,NAO,0,Sunny,05:28 AM,06:28 PM,6.8
+Apiaca,3200508,2023-02-03,Espirito Santo,Brazil,-21.13,-41.57,34.9,20.3,26.3,SIM,73,Patchy rain possible,05:29 AM,06:27 PM,6.8
+Apiaca,3200508,2023-02-04,Espirito Santo,Brazil,-21.13,-41.57,35.3,20.8,26.6,NAO,67,Patchy rain possible,05:29 AM,06:27 PM,7.6
+Apiaca,3200508,2023-02-05,Espirito Santo,Brazil,-21.13,-41.57,33.5,22.2,25.3,SIM,85,Patchy rain possible,05:30 AM,06:27 PM,6.8
+Aracruz,3200607,2023-02-01,Espirito Santo,Brazil,-19.82,-40.27,32.5,20.9,25.4,NAO,0,Partly cloudy,05:26 AM,06:23 PM,11.9
+Aracruz,3200607,2023-02-02,Espirito Santo,Brazil,-19.82,-40.27,33.4,21.3,25.7,NAO,0,Partly cloudy,05:26 AM,06:23 PM,12.6
+Aracruz,3200607,2023-02-03,Espirito Santo,Brazil,-19.82,-40.27,34.1,20.4,26.1,NAO,0,Sunny,05:27 AM,06:23 PM,12.6
+Aracruz,3200607,2023-02-04,Espirito Santo,Brazil,-19.82,-40.27,34.3,21.7,26.7,NAO,0,Partly cloudy,05:27 AM,06:22 PM,15.1
+Aracruz,3200607,2023-02-05,Espirito Santo,Brazil,-19.82,-40.27,33.1,22,25.1,NAO,0,Partly cloudy,05:28 AM,06:22 PM,14.8
+Baixo Guandu,3200805,2023-02-01,Espirito Santo,Brazil,-19.52,-41.02,33.3,19.9,25,SIM,75,Patchy rain possible,05:27 AM,06:24 PM,7.9
+Baixo Guandu,3200805,2023-02-02,Espirito Santo,Brazil,-19.52,-41.02,33,19.8,25.4,NAO,0,Partly cloudy,05:28 AM,06:24 PM,7.2
+Baixo Guandu,3200805,2023-02-03,Espirito Santo,Brazil,-19.52,-41.02,34,19.4,25.7,NAO,0,Sunny,05:29 AM,06:24 PM,8.3
+Baixo Guandu,3200805,2023-02-04,Espirito Santo,Brazil,-19.52,-41.02,32.2,20.6,25.7,NAO,0,Partly cloudy,05:29 AM,06:23 PM,9.4
+Baixo Guandu,3200805,2023-02-05,Espirito Santo,Brazil,-19.52,-41.02,33.1,20.9,24.7,SIM,84,Patchy rain possible,05:30 AM,06:23 PM,8.6
+Barra De Sao Francisco,null,2023-02-01,Espirito Santo,Brazil,-18.75,-40.87,31.6,20.1,23.9,SIM,84,Patchy rain possible,05:30 AM,06:24 PM,10.4
+Barra De Sao Francisco,null,2023-02-02,Espirito Santo,Brazil,-18.75,-40.87,30.5,19.8,24.2,NAO,0,Partly cloudy,05:30 AM,06:24 PM,7.9
+Barra De Sao Francisco,null,2023-02-03,Espirito Santo,Brazil,-18.75,-40.87,31,19.4,24.3,NAO,0,Sunny,05:31 AM,06:24 PM,9.4
+Barra De Sao Francisco,null,2023-02-04,Espirito Santo,Brazil,-18.75,-40.87,32.2,19.7,24.1,NAO,0,Partly cloudy,05:31 AM,06:23 PM,7.2
+Barra De Sao Francisco,null,2023-02-05,Espirito Santo,Brazil,-18.75,-40.87,33.8,20.9,24.2,NAO,0,Fog,05:32 AM,06:23 PM,8.3
+Brejetuba,3201159,2023-02-01,Espirito Santo,Brazil,-20.15,-41.28,28.4,18.1,22.2,SIM,89,Patchy rain possible,05:30 AM,06:30 PM,8.6
+Brejetuba,3201159,2023-02-02,Espirito Santo,Brazil,-20.15,-41.28,29,18.3,22.4,NAO,0,Sunny,05:30 AM,06:30 PM,7.2
+Brejetuba,3201159,2023-02-03,Espirito Santo,Brazil,-20.15,-41.28,29.2,18.8,23,SIM,89,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Brejetuba,3201159,2023-02-04,Espirito Santo,Brazil,-20.15,-41.28,29.3,18.8,23.4,SIM,88,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Brejetuba,3201159,2023-02-05,Espirito Santo,Brazil,-20.15,-41.28,29.6,20.2,22.8,SIM,89,Moderate rain,05:32 AM,06:28 PM,7.2
+Cachoeiro De Itapemirim,null,2023-02-01,Espirito Santo,Brazil,-20.85,-41.1,32.1,19.3,24.9,SIM,89,Patchy rain possible,05:27 AM,06:28 PM,7.9
+Cachoeiro De Itapemirim,null,2023-02-02,Espirito Santo,Brazil,-20.85,-41.1,34.5,20.5,26.1,NAO,0,Sunny,05:28 AM,06:28 PM,6.8
+Cachoeiro De Itapemirim,null,2023-02-03,Espirito Santo,Brazil,-20.85,-41.1,34.9,20.3,26.3,SIM,73,Patchy rain possible,05:29 AM,06:27 PM,6.8
+Cachoeiro De Itapemirim,null,2023-02-04,Espirito Santo,Brazil,-20.85,-41.1,35.3,20.8,26.6,NAO,67,Patchy rain possible,05:29 AM,06:27 PM,7.6
+Cachoeiro De Itapemirim,null,2023-02-05,Espirito Santo,Brazil,-20.85,-41.1,33.5,22.2,25.3,SIM,85,Patchy rain possible,05:30 AM,06:27 PM,6.8
+Cariacica,3201308,2023-02-01,Espirito Santo,Brazil,-20.27,-40.42,33.5,20.5,25.3,NAO,0,Sunny,05:26 AM,06:25 PM,18
+Cariacica,3201308,2023-02-02,Espirito Santo,Brazil,-20.27,-40.42,34.9,21.3,26.4,NAO,0,Sunny,05:26 AM,06:24 PM,16.2
+Cariacica,3201308,2023-02-03,Espirito Santo,Brazil,-20.27,-40.42,32.9,21.1,26.3,NAO,0,Sunny,05:27 AM,06:24 PM,17.3
+Cariacica,3201308,2023-02-04,Espirito Santo,Brazil,-20.27,-40.42,33.9,21.5,26.9,NAO,0,Sunny,05:27 AM,06:24 PM,15.5
+Cariacica,3201308,2023-02-05,Espirito Santo,Brazil,-20.27,-40.42,35.8,22.7,26.2,SIM,85,Patchy rain possible,05:28 AM,06:23 PM,13.7
+Colatina,3201506,2023-02-01,Espirito Santo,Brazil,-19.53,-40.62,33.3,19.9,25,SIM,75,Patchy rain possible,05:27 AM,06:24 PM,7.9
+Colatina,3201506,2023-02-02,Espirito Santo,Brazil,-19.53,-40.62,33,19.8,25.4,NAO,0,Partly cloudy,05:28 AM,06:24 PM,7.2
+Colatina,3201506,2023-02-03,Espirito Santo,Brazil,-19.53,-40.62,34,19.4,25.7,NAO,0,Sunny,05:29 AM,06:24 PM,8.3
+Colatina,3201506,2023-02-04,Espirito Santo,Brazil,-19.53,-40.62,32.2,20.6,25.7,NAO,0,Partly cloudy,05:29 AM,06:23 PM,9.4
+Colatina,3201506,2023-02-05,Espirito Santo,Brazil,-19.53,-40.62,33.1,20.9,24.7,SIM,84,Patchy rain possible,05:30 AM,06:23 PM,8.6
+Conceicao Da Barra,null,2023-02-01,Espirito Santo,Brazil,-18.58,-39.75,31.8,21,25.1,SIM,89,Patchy rain possible,05:25 AM,06:22 PM,11.9
+Conceicao Da Barra,null,2023-02-02,Espirito Santo,Brazil,-18.58,-39.75,32.6,21.5,25.8,NAO,0,Partly cloudy,05:26 AM,06:22 PM,11.5
+Conceicao Da Barra,null,2023-02-03,Espirito Santo,Brazil,-18.58,-39.75,35,20.6,26.4,NAO,0,Sunny,05:27 AM,06:21 PM,11.9
+Conceicao Da Barra,null,2023-02-04,Espirito Santo,Brazil,-18.58,-39.75,35.7,21.6,26.9,NAO,0,Partly cloudy,05:27 AM,06:21 PM,14.4
+Conceicao Da Barra,null,2023-02-05,Espirito Santo,Brazil,-18.58,-39.75,33.9,22.2,25.7,NAO,0,Partly cloudy,05:28 AM,06:21 PM,14.4
+Conceicao Do Castelo,null,2023-02-01,Espirito Santo,Brazil,-20.37,-41.25,28.4,18.1,22.2,SIM,89,Patchy rain possible,05:30 AM,06:30 PM,8.6
+Conceicao Do Castelo,null,2023-02-02,Espirito Santo,Brazil,-20.37,-41.25,29,18.3,22.4,NAO,0,Sunny,05:30 AM,06:30 PM,7.2
+Conceicao Do Castelo,null,2023-02-03,Espirito Santo,Brazil,-20.37,-41.25,29.2,18.8,23,SIM,89,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Conceicao Do Castelo,null,2023-02-04,Espirito Santo,Brazil,-20.37,-41.25,29.3,18.8,23.4,SIM,88,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Conceicao Do Castelo,null,2023-02-05,Espirito Santo,Brazil,-20.37,-41.25,29.6,20.2,22.8,SIM,89,Moderate rain,05:32 AM,06:28 PM,7.2
+Domingos Martins,3201902,2023-02-01,Espirito Santo,Brazil,-20.37,-40.67,33.8,20.2,25.6,NAO,0,Sunny,05:26 AM,06:25 PM,17.6
+Domingos Martins,3201902,2023-02-02,Espirito Santo,Brazil,-20.37,-40.67,34.9,20.3,26.2,NAO,0,Sunny,05:26 AM,06:24 PM,15.5
+Domingos Martins,3201902,2023-02-03,Espirito Santo,Brazil,-20.37,-40.67,34.6,21.2,26.2,NAO,0,Sunny,05:27 AM,06:24 PM,16.9
+Domingos Martins,3201902,2023-02-04,Espirito Santo,Brazil,-20.37,-40.67,35.5,20.5,26.3,NAO,0,Sunny,05:27 AM,06:24 PM,15.1
+Domingos Martins,3201902,2023-02-05,Espirito Santo,Brazil,-20.37,-40.67,35.8,21.2,24.8,NAO,0,Sunny,05:28 AM,06:23 PM,13.7
+Dores Do Rio Preto,null,2023-02-01,Espirito Santo,Brazil,-20.7,-41.83,28.4,18.1,22.2,SIM,89,Patchy rain possible,05:30 AM,06:30 PM,8.6
+Dores Do Rio Preto,null,2023-02-02,Espirito Santo,Brazil,-20.7,-41.83,29,18.3,22.4,NAO,0,Sunny,05:30 AM,06:30 PM,7.2
+Dores Do Rio Preto,null,2023-02-03,Espirito Santo,Brazil,-20.7,-41.83,29.2,18.8,23,SIM,89,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Dores Do Rio Preto,null,2023-02-04,Espirito Santo,Brazil,-20.7,-41.83,29.3,18.8,23.4,SIM,88,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Dores Do Rio Preto,null,2023-02-05,Espirito Santo,Brazil,-20.7,-41.83,29.6,20.2,22.8,SIM,89,Moderate rain,05:32 AM,06:28 PM,7.2
+Ecoporanga,3202108,2023-02-01,Espirito Santo,Brazil,-18.38,-40.83,31.6,20.1,23.9,SIM,84,Patchy rain possible,05:30 AM,06:24 PM,10.4
+Ecoporanga,3202108,2023-02-02,Espirito Santo,Brazil,-18.38,-40.83,30.5,19.8,24.2,NAO,0,Partly cloudy,05:30 AM,06:24 PM,7.9
+Ecoporanga,3202108,2023-02-03,Espirito Santo,Brazil,-18.38,-40.83,31,19.4,24.3,NAO,0,Sunny,05:31 AM,06:24 PM,9.4
+Ecoporanga,3202108,2023-02-04,Espirito Santo,Brazil,-18.38,-40.83,32.2,19.7,24.1,NAO,0,Partly cloudy,05:31 AM,06:23 PM,7.2
+Ecoporanga,3202108,2023-02-05,Espirito Santo,Brazil,-18.38,-40.83,33.8,20.9,24.2,NAO,0,Fog,05:32 AM,06:23 PM,8.3
+Fundao,3202207,2023-02-01,Espirito Santo,Brazil,-19.92,-40.4,33.5,21.2,25.8,NAO,60,Patchy rain possible,05:25 AM,06:24 PM,18.7
+Fundao,3202207,2023-02-02,Espirito Santo,Brazil,-19.92,-40.4,31.6,21.7,26.1,NAO,0,Sunny,05:26 AM,06:24 PM,16.6
+Fundao,3202207,2023-02-03,Espirito Santo,Brazil,-19.92,-40.4,32.4,21.3,26.2,NAO,0,Sunny,05:26 AM,06:23 PM,17.3
+Fundao,3202207,2023-02-04,Espirito Santo,Brazil,-19.92,-40.4,32.9,22.3,26.9,NAO,0,Sunny,05:27 AM,06:23 PM,17.3
+Fundao,3202207,2023-02-05,Espirito Santo,Brazil,-19.92,-40.4,33.3,22.8,26,NAO,60,Patchy rain possible,05:28 AM,06:22 PM,16.6
+Governador Lindenberg,3202256,2023-02-01,Espirito Santo,Brazil,-19.27,-40.48,29.3,20,24.3,SIM,86,Patchy rain possible,05:28 AM,06:22 PM,10.8
+Governador Lindenberg,3202256,2023-02-02,Espirito Santo,Brazil,-19.27,-40.48,32,20.1,25.1,NAO,0,Cloudy,05:28 AM,06:22 PM,12.2
+Governador Lindenberg,3202256,2023-02-03,Espirito Santo,Brazil,-19.27,-40.48,33.5,20.3,25.6,NAO,0,Sunny,05:29 AM,06:22 PM,11.9
+Governador Lindenberg,3202256,2023-02-04,Espirito Santo,Brazil,-19.27,-40.48,33.7,20.1,25.6,NAO,0,Partly cloudy,05:29 AM,06:21 PM,11.5
+Governador Lindenberg,3202256,2023-02-05,Espirito Santo,Brazil,-19.27,-40.48,34.7,21.1,24.6,NAO,0,Fog,05:30 AM,06:21 PM,11.2
+Guacui,3202306,2023-02-01,Espirito Santo,Brazil,-20.77,-41.68,28.4,18.1,22.2,SIM,89,Patchy rain possible,05:30 AM,06:30 PM,8.6
+Guacui,3202306,2023-02-02,Espirito Santo,Brazil,-20.77,-41.68,29,18.3,22.4,NAO,0,Sunny,05:30 AM,06:30 PM,7.2
+Guacui,3202306,2023-02-03,Espirito Santo,Brazil,-20.77,-41.68,29.2,18.8,23,SIM,89,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Guacui,3202306,2023-02-04,Espirito Santo,Brazil,-20.77,-41.68,29.3,18.8,23.4,SIM,88,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Guacui,3202306,2023-02-05,Espirito Santo,Brazil,-20.77,-41.68,29.6,20.2,22.8,SIM,89,Moderate rain,05:32 AM,06:28 PM,7.2
+Guarapari,3202405,2023-02-01,Espirito Santo,Brazil,-20.67,-40.5,31.7,21.6,25.9,NAO,0,Sunny,05:25 AM,06:26 PM,29.5
+Guarapari,3202405,2023-02-02,Espirito Santo,Brazil,-20.67,-40.5,32.6,22,26.4,NAO,0,Sunny,05:26 AM,06:25 PM,26.3
+Guarapari,3202405,2023-02-03,Espirito Santo,Brazil,-20.67,-40.5,32.4,22.3,26.5,NAO,0,Sunny,05:27 AM,06:25 PM,28.4
+Guarapari,3202405,2023-02-04,Espirito Santo,Brazil,-20.67,-40.5,33.6,22.2,26.5,NAO,0,Sunny,05:27 AM,06:24 PM,23.4
+Guarapari,3202405,2023-02-05,Espirito Santo,Brazil,-20.67,-40.5,33.7,23.2,25.8,SIM,81,Patchy rain possible,05:28 AM,06:24 PM,18.4
+Ibatiba,3202454,2023-02-01,Espirito Santo,Brazil,-20.23,-41.52,28.4,18.1,22.2,SIM,89,Patchy rain possible,05:30 AM,06:30 PM,8.6
+Ibatiba,3202454,2023-02-02,Espirito Santo,Brazil,-20.23,-41.52,29,18.3,22.4,NAO,0,Sunny,05:30 AM,06:30 PM,7.2
+Ibatiba,3202454,2023-02-03,Espirito Santo,Brazil,-20.23,-41.52,29.2,18.8,23,SIM,89,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Ibatiba,3202454,2023-02-04,Espirito Santo,Brazil,-20.23,-41.52,29.3,18.8,23.4,SIM,88,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Ibatiba,3202454,2023-02-05,Espirito Santo,Brazil,-20.23,-41.52,29.6,20.2,22.8,SIM,89,Moderate rain,05:32 AM,06:28 PM,7.2
+Ibiracu,3202504,2023-02-01,Espirito Santo,Brazil,-19.83,-40.37,32.9,21.1,25.6,SIM,81,Patchy rain possible,05:27 AM,06:24 PM,7.9
+Ibiracu,3202504,2023-02-02,Espirito Santo,Brazil,-19.83,-40.37,32.5,20.9,25.8,NAO,0,Partly cloudy,05:28 AM,06:24 PM,7.2
+Ibiracu,3202504,2023-02-03,Espirito Santo,Brazil,-19.83,-40.37,33.9,20.6,26.1,NAO,0,Sunny,05:29 AM,06:24 PM,8.6
+Ibiracu,3202504,2023-02-04,Espirito Santo,Brazil,-19.83,-40.37,32.8,21.8,26.3,NAO,0,Partly cloudy,05:29 AM,06:23 PM,9.4
+Ibiracu,3202504,2023-02-05,Espirito Santo,Brazil,-19.83,-40.37,32.9,22,25.2,SIM,83,Patchy rain possible,05:30 AM,06:23 PM,8.3
+Ibitirama,3202553,2023-02-01,Espirito Santo,Brazil,-20.53,-41.67,28.4,18.1,22.2,SIM,89,Patchy rain possible,05:30 AM,06:30 PM,8.6
+Ibitirama,3202553,2023-02-02,Espirito Santo,Brazil,-20.53,-41.67,29,18.3,22.4,NAO,0,Sunny,05:30 AM,06:30 PM,7.2
+Ibitirama,3202553,2023-02-03,Espirito Santo,Brazil,-20.53,-41.67,29.2,18.8,23,SIM,89,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Ibitirama,3202553,2023-02-04,Espirito Santo,Brazil,-20.53,-41.67,29.3,18.8,23.4,SIM,88,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Ibitirama,3202553,2023-02-05,Espirito Santo,Brazil,-20.53,-41.67,29.6,20.2,22.8,SIM,89,Moderate rain,05:32 AM,06:28 PM,7.2
+Iconha,3202603,2023-02-01,Espirito Santo,Brazil,-20.8,-40.8,32,21.4,25.6,NAO,0,Sunny,05:25 AM,06:26 PM,29.9
+Iconha,3202603,2023-02-02,Espirito Santo,Brazil,-20.8,-40.8,32.8,22.2,26.2,NAO,0,Sunny,05:26 AM,06:25 PM,26.6
+Iconha,3202603,2023-02-03,Espirito Santo,Brazil,-20.8,-40.8,32.7,22.1,26.2,NAO,0,Sunny,05:27 AM,06:25 PM,28.8
+Iconha,3202603,2023-02-04,Espirito Santo,Brazil,-20.8,-40.8,33.9,22.1,26.4,NAO,0,Sunny,05:27 AM,06:24 PM,23.4
+Iconha,3202603,2023-02-05,Espirito Santo,Brazil,-20.8,-40.8,33.9,22.9,25.4,NAO,0,Sunny,05:28 AM,06:24 PM,18.7
+Irupi,3202652,2023-02-01,Espirito Santo,Brazil,-20.35,-41.63,28.4,18.1,22.2,SIM,89,Patchy rain possible,05:30 AM,06:30 PM,8.6
+Irupi,3202652,2023-02-02,Espirito Santo,Brazil,-20.35,-41.63,29,18.3,22.4,NAO,0,Sunny,05:30 AM,06:30 PM,7.2
+Irupi,3202652,2023-02-03,Espirito Santo,Brazil,-20.35,-41.63,29.2,18.8,23,SIM,89,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Irupi,3202652,2023-02-04,Espirito Santo,Brazil,-20.35,-41.63,29.3,18.8,23.4,SIM,88,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Irupi,3202652,2023-02-05,Espirito Santo,Brazil,-20.35,-41.63,29.6,20.2,22.8,SIM,89,Moderate rain,05:32 AM,06:28 PM,7.2
+Itaguacu,3202702,2023-02-01,Espirito Santo,Brazil,-19.8,-40.85,33.3,19.9,25,SIM,75,Patchy rain possible,05:27 AM,06:24 PM,7.9
+Itaguacu,3202702,2023-02-02,Espirito Santo,Brazil,-19.8,-40.85,33,19.8,25.4,NAO,0,Partly cloudy,05:28 AM,06:24 PM,7.2
+Itaguacu,3202702,2023-02-03,Espirito Santo,Brazil,-19.8,-40.85,34,19.4,25.7,NAO,0,Sunny,05:29 AM,06:24 PM,8.3
+Itaguacu,3202702,2023-02-04,Espirito Santo,Brazil,-19.8,-40.85,32.2,20.6,25.7,NAO,0,Partly cloudy,05:29 AM,06:23 PM,9.4
+Itaguacu,3202702,2023-02-05,Espirito Santo,Brazil,-19.8,-40.85,33.1,20.9,24.7,SIM,84,Patchy rain possible,05:30 AM,06:23 PM,8.6
+Itapemirim,3202801,2023-02-01,Espirito Santo,Brazil,-21.02,-40.83,30.7,22.3,25.5,SIM,88,Patchy rain possible,05:26 AM,06:27 PM,27.4
+Itapemirim,3202801,2023-02-02,Espirito Santo,Brazil,-21.02,-40.83,30.9,22.7,25.9,NAO,0,Sunny,05:27 AM,06:27 PM,21.2
+Itapemirim,3202801,2023-02-03,Espirito Santo,Brazil,-21.02,-40.83,31.2,22.7,26.1,NAO,0,Sunny,05:27 AM,06:27 PM,24.8
+Itapemirim,3202801,2023-02-04,Espirito Santo,Brazil,-21.02,-40.83,32,23,26.5,NAO,0,Sunny,05:28 AM,06:26 PM,24.5
+Itapemirim,3202801,2023-02-05,Espirito Santo,Brazil,-21.02,-40.83,29.7,24,25.5,SIM,76,Patchy rain possible,05:29 AM,06:26 PM,14
+Itarana,3202900,2023-02-01,Espirito Santo,Brazil,-19.85,-40.87,33.3,19.9,25,SIM,75,Patchy rain possible,05:27 AM,06:24 PM,7.9
+Itarana,3202900,2023-02-02,Espirito Santo,Brazil,-19.85,-40.87,33,19.8,25.4,NAO,0,Partly cloudy,05:28 AM,06:24 PM,7.2
+Itarana,3202900,2023-02-03,Espirito Santo,Brazil,-19.85,-40.87,34,19.4,25.7,NAO,0,Sunny,05:29 AM,06:24 PM,8.3
+Itarana,3202900,2023-02-04,Espirito Santo,Brazil,-19.85,-40.87,32.2,20.6,25.7,NAO,0,Partly cloudy,05:29 AM,06:23 PM,9.4
+Itarana,3202900,2023-02-05,Espirito Santo,Brazil,-19.85,-40.87,33.1,20.9,24.7,SIM,84,Patchy rain possible,05:30 AM,06:23 PM,8.6
+Iuna,3203007,2023-02-01,Espirito Santo,Brazil,-20.35,-41.53,28.4,18.1,22.2,SIM,89,Patchy rain possible,05:30 AM,06:30 PM,8.6
+Iuna,3203007,2023-02-02,Espirito Santo,Brazil,-20.35,-41.53,29,18.3,22.4,NAO,0,Sunny,05:30 AM,06:30 PM,7.2
+Iuna,3203007,2023-02-03,Espirito Santo,Brazil,-20.35,-41.53,29.2,18.8,23,SIM,89,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Iuna,3203007,2023-02-04,Espirito Santo,Brazil,-20.35,-41.53,29.3,18.8,23.4,SIM,88,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Iuna,3203007,2023-02-05,Espirito Santo,Brazil,-20.35,-41.53,29.6,20.2,22.8,SIM,89,Moderate rain,05:32 AM,06:28 PM,7.2
+Jeronimo Monteiro,3203106,2023-02-01,Espirito Santo,Brazil,-20.78,-41.4,32.1,19.3,24.9,SIM,89,Patchy rain possible,05:27 AM,06:28 PM,7.9
+Jeronimo Monteiro,3203106,2023-02-02,Espirito Santo,Brazil,-20.78,-41.4,34.5,20.5,26.1,NAO,0,Sunny,05:28 AM,06:28 PM,6.8
+Jeronimo Monteiro,3203106,2023-02-03,Espirito Santo,Brazil,-20.78,-41.4,34.9,20.3,26.3,SIM,73,Patchy rain possible,05:29 AM,06:27 PM,6.8
+Jeronimo Monteiro,3203106,2023-02-04,Espirito Santo,Brazil,-20.78,-41.4,35.3,20.8,26.6,NAO,67,Patchy rain possible,05:29 AM,06:27 PM,7.6
+Jeronimo Monteiro,3203106,2023-02-05,Espirito Santo,Brazil,-20.78,-41.4,33.5,22.2,25.3,SIM,85,Patchy rain possible,05:30 AM,06:27 PM,6.8
+Joao Neiva,3203130,2023-02-01,Espirito Santo,Brazil,-19.75,-40.4,33.4,21.2,26,NAO,0,Sunny,05:25 AM,06:24 PM,18.7
+Joao Neiva,3203130,2023-02-02,Espirito Santo,Brazil,-19.75,-40.4,34.2,21.5,26.3,NAO,0,Sunny,05:26 AM,06:24 PM,16.9
+Joao Neiva,3203130,2023-02-03,Espirito Santo,Brazil,-19.75,-40.4,34.2,21.2,26.5,NAO,0,Sunny,05:27 AM,06:23 PM,17.6
+Joao Neiva,3203130,2023-02-04,Espirito Santo,Brazil,-19.75,-40.4,34.9,22.2,27.3,NAO,0,Sunny,05:27 AM,06:23 PM,17.6
+Joao Neiva,3203130,2023-02-05,Espirito Santo,Brazil,-19.75,-40.4,35.3,22.7,25.8,NAO,0,Sunny,05:28 AM,06:23 PM,16.6
+Laranja Da Terra,null,2023-02-01,Espirito Santo,Brazil,-19.9,-41.07,33.3,19.9,25,SIM,75,Patchy rain possible,05:27 AM,06:24 PM,7.9
+Laranja Da Terra,null,2023-02-02,Espirito Santo,Brazil,-19.9,-41.07,33,19.8,25.4,NAO,0,Partly cloudy,05:28 AM,06:24 PM,7.2
+Laranja Da Terra,null,2023-02-03,Espirito Santo,Brazil,-19.9,-41.07,34,19.4,25.7,NAO,0,Sunny,05:29 AM,06:24 PM,8.3
+Laranja Da Terra,null,2023-02-04,Espirito Santo,Brazil,-19.9,-41.07,32.2,20.6,25.7,NAO,0,Partly cloudy,05:29 AM,06:23 PM,9.4
+Laranja Da Terra,null,2023-02-05,Espirito Santo,Brazil,-19.9,-41.07,33.1,20.9,24.7,SIM,84,Patchy rain possible,05:30 AM,06:23 PM,8.6
+Linhares,3203205,2023-02-01,Espirito Santo,Brazil,-19.42,-40.07,32.3,21,25.4,SIM,80,Patchy rain possible,05:25 AM,06:22 PM,11.9
+Linhares,3203205,2023-02-02,Espirito Santo,Brazil,-19.42,-40.07,32.9,21.5,26.1,NAO,0,Partly cloudy,05:26 AM,06:22 PM,11.5
+Linhares,3203205,2023-02-03,Espirito Santo,Brazil,-19.42,-40.07,35.4,20.5,26.6,NAO,0,Sunny,05:27 AM,06:21 PM,11.9
+Linhares,3203205,2023-02-04,Espirito Santo,Brazil,-19.42,-40.07,35.7,21.5,27.1,NAO,0,Partly cloudy,05:27 AM,06:21 PM,14.4
+Linhares,3203205,2023-02-05,Espirito Santo,Brazil,-19.42,-40.07,34.3,22.2,26,NAO,0,Partly cloudy,05:28 AM,06:21 PM,14.4
+Mantenopolis,3203304,2023-02-01,Espirito Santo,Brazil,-18.88,-41.1,30.5,19.6,23.9,SIM,76,Patchy rain possible,05:34 AM,06:29 PM,8.3
+Mantenopolis,3203304,2023-02-02,Espirito Santo,Brazil,-18.88,-41.1,30.9,19,24.1,NAO,0,Sunny,05:34 AM,06:28 PM,5.8
+Mantenopolis,3203304,2023-02-03,Espirito Santo,Brazil,-18.88,-41.1,30.1,20.1,24.7,SIM,83,Patchy rain possible,05:35 AM,06:28 PM,7.6
+Mantenopolis,3203304,2023-02-04,Espirito Santo,Brazil,-18.88,-41.1,32.7,20.2,25.5,NAO,0,Sunny,05:35 AM,06:28 PM,6.5
+Mantenopolis,3203304,2023-02-05,Espirito Santo,Brazil,-18.88,-41.1,33.1,21.2,24.6,NAO,0,Sunny,05:36 AM,06:27 PM,6.5
+Marataizes,3203320,2023-02-01,Espirito Santo,Brazil,-21.03,-40.83,30.7,22.3,25.5,SIM,88,Patchy rain possible,05:26 AM,06:27 PM,27.4
+Marataizes,3203320,2023-02-02,Espirito Santo,Brazil,-21.03,-40.83,30.9,22.7,25.9,NAO,0,Sunny,05:27 AM,06:27 PM,21.2
+Marataizes,3203320,2023-02-03,Espirito Santo,Brazil,-21.03,-40.83,31.2,22.7,26.1,NAO,0,Sunny,05:27 AM,06:27 PM,24.8
+Marataizes,3203320,2023-02-04,Espirito Santo,Brazil,-21.03,-40.83,32,23,26.5,NAO,0,Sunny,05:28 AM,06:26 PM,24.5
+Marataizes,3203320,2023-02-05,Espirito Santo,Brazil,-21.03,-40.83,29.7,24,25.5,SIM,76,Patchy rain possible,05:29 AM,06:26 PM,14
+Marechal Floriano,3203346,2023-02-01,Espirito Santo,Brazil,-20.42,-40.67,33.8,20.2,25.6,NAO,0,Sunny,05:26 AM,06:25 PM,17.6
+Marechal Floriano,3203346,2023-02-02,Espirito Santo,Brazil,-20.42,-40.67,34.9,20.3,26.2,NAO,0,Sunny,05:26 AM,06:24 PM,15.5
+Marechal Floriano,3203346,2023-02-03,Espirito Santo,Brazil,-20.42,-40.67,34.6,21.2,26.2,NAO,0,Sunny,05:27 AM,06:24 PM,16.9
+Marechal Floriano,3203346,2023-02-04,Espirito Santo,Brazil,-20.42,-40.67,35.5,20.5,26.3,NAO,0,Sunny,05:27 AM,06:24 PM,15.1
+Marechal Floriano,3203346,2023-02-05,Espirito Santo,Brazil,-20.42,-40.67,35.8,21.2,24.8,NAO,0,Sunny,05:28 AM,06:23 PM,13.7
+Marilandia,3203353,2023-02-01,Espirito Santo,Brazil,-19.42,-40.52,33.3,19.9,25,SIM,75,Patchy rain possible,05:27 AM,06:24 PM,7.9
+Marilandia,3203353,2023-02-02,Espirito Santo,Brazil,-19.42,-40.52,33,19.8,25.4,NAO,0,Partly cloudy,05:28 AM,06:24 PM,7.2
+Marilandia,3203353,2023-02-03,Espirito Santo,Brazil,-19.42,-40.52,34,19.4,25.7,NAO,0,Sunny,05:29 AM,06:24 PM,8.3
+Marilandia,3203353,2023-02-04,Espirito Santo,Brazil,-19.42,-40.52,32.2,20.6,25.7,NAO,0,Partly cloudy,05:29 AM,06:23 PM,9.4
+Marilandia,3203353,2023-02-05,Espirito Santo,Brazil,-19.42,-40.52,33.1,20.9,24.7,SIM,84,Patchy rain possible,05:30 AM,06:23 PM,8.6
+Mimoso Do Sul,null,2023-02-01,Espirito Santo,Brazil,-21.07,-41.37,32.1,19.3,24.9,SIM,89,Patchy rain possible,05:27 AM,06:28 PM,7.9
+Mimoso Do Sul,null,2023-02-02,Espirito Santo,Brazil,-21.07,-41.37,34.5,20.5,26.1,NAO,0,Sunny,05:28 AM,06:28 PM,6.8
+Mimoso Do Sul,null,2023-02-03,Espirito Santo,Brazil,-21.07,-41.37,34.9,20.3,26.3,SIM,73,Patchy rain possible,05:29 AM,06:27 PM,6.8
+Mimoso Do Sul,null,2023-02-04,Espirito Santo,Brazil,-21.07,-41.37,35.3,20.8,26.6,NAO,67,Patchy rain possible,05:29 AM,06:27 PM,7.6
+Mimoso Do Sul,null,2023-02-05,Espirito Santo,Brazil,-21.07,-41.37,33.5,22.2,25.3,SIM,85,Patchy rain possible,05:30 AM,06:27 PM,6.8
+Montanha,3203502,2023-02-01,Espirito Santo,Brazil,-18.13,-40.35,31.2,20.5,25.1,SIM,87,Patchy rain possible,05:29 AM,06:21 PM,16.6
+Montanha,3203502,2023-02-02,Espirito Santo,Brazil,-18.13,-40.35,33.4,20.1,25.4,NAO,0,Partly cloudy,05:29 AM,06:21 PM,16.6
+Montanha,3203502,2023-02-03,Espirito Santo,Brazil,-18.13,-40.35,33.7,20.3,26.1,NAO,0,Sunny,05:30 AM,06:20 PM,17.6
+Montanha,3203502,2023-02-04,Espirito Santo,Brazil,-18.13,-40.35,34.3,20.1,26.3,NAO,0,Sunny,05:30 AM,06:20 PM,20.9
+Montanha,3203502,2023-02-05,Espirito Santo,Brazil,-18.13,-40.35,35.2,20.9,24.9,NAO,0,Partly cloudy,05:31 AM,06:20 PM,17.6
+Mucurici,3203601,2023-02-01,Espirito Santo,Brazil,-18.1,-40.52,31.6,20.1,23.9,SIM,84,Patchy rain possible,05:30 AM,06:24 PM,10.4
+Mucurici,3203601,2023-02-02,Espirito Santo,Brazil,-18.1,-40.52,30.5,19.8,24.2,NAO,0,Partly cloudy,05:30 AM,06:24 PM,7.9
+Mucurici,3203601,2023-02-03,Espirito Santo,Brazil,-18.1,-40.52,31,19.4,24.3,NAO,0,Sunny,05:31 AM,06:24 PM,9.4
+Mucurici,3203601,2023-02-04,Espirito Santo,Brazil,-18.1,-40.52,32.2,19.7,24.1,NAO,0,Partly cloudy,05:31 AM,06:23 PM,7.2
+Mucurici,3203601,2023-02-05,Espirito Santo,Brazil,-18.1,-40.52,33.8,20.9,24.2,NAO,0,Fog,05:32 AM,06:23 PM,8.3
+Muniz Freire,3203700,2023-02-01,Espirito Santo,Brazil,-20.47,-41.42,28.4,18.1,22.2,SIM,89,Patchy rain possible,05:30 AM,06:30 PM,8.6
+Muniz Freire,3203700,2023-02-02,Espirito Santo,Brazil,-20.47,-41.42,29,18.3,22.4,NAO,0,Sunny,05:30 AM,06:30 PM,7.2
+Muniz Freire,3203700,2023-02-03,Espirito Santo,Brazil,-20.47,-41.42,29.2,18.8,23,SIM,89,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Muniz Freire,3203700,2023-02-04,Espirito Santo,Brazil,-20.47,-41.42,29.3,18.8,23.4,SIM,88,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Muniz Freire,3203700,2023-02-05,Espirito Santo,Brazil,-20.47,-41.42,29.6,20.2,22.8,SIM,89,Moderate rain,05:32 AM,06:28 PM,7.2
+Muqui,3203809,2023-02-01,Espirito Santo,Brazil,-20.95,-41.3,28.4,18.1,22.2,SIM,89,Patchy rain possible,05:30 AM,06:30 PM,8.6
+Muqui,3203809,2023-02-02,Espirito Santo,Brazil,-20.95,-41.3,29,18.3,22.4,NAO,0,Sunny,05:30 AM,06:30 PM,7.2
+Muqui,3203809,2023-02-03,Espirito Santo,Brazil,-20.95,-41.3,29.2,18.8,23,SIM,89,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Muqui,3203809,2023-02-04,Espirito Santo,Brazil,-20.95,-41.3,29.3,18.8,23.4,SIM,88,Patchy rain possible,05:31 AM,06:29 PM,8.3
+Muqui,3203809,2023-02-05,Espirito Santo,Brazil,-20.95,-41.3,29.6,20.2,22.8,SIM,89,Moderate rain,05:32 AM,06:28 PM,7.2
+Nova Venecia,3203908,2023-02-01,Espirito Santo,Brazil,-18.72,-40.4,29.3,20,24.3,SIM,86,Patchy rain possible,05:28 AM,06:22 PM,10.8
+Nova Venecia,3203908,2023-02-02,Espirito Santo,Brazil,-18.72,-40.4,32,20.1,25.1,NAO,0,Cloudy,05:28 AM,06:22 PM,12.2
+Nova Venecia,3203908,2023-02-03,Espirito Santo,Brazil,-18.72,-40.4,33.5,20.3,25.6,NAO,0,Sunny,05:29 AM,06:22 PM,11.9
+Nova Venecia,3203908,2023-02-04,Espirito Santo,Brazil,-18.72,-40.4,33.7,20.1,25.6,NAO,0,Partly cloudy,05:29 AM,06:21 PM,11.5
+Nova Venecia,3203908,2023-02-05,Espirito Santo,Brazil,-18.72,-40.4,34.7,21.1,24.6,NAO,0,Fog,05:30 AM,06:21 PM,11.2
+Pancas,3204005,2023-02-01,Espirito Santo,Brazil,-19.23,-40.85,29.3,20.4,23.7,NAO,0,Partly cloudy,05:31 AM,06:27 PM,6.8
+Pancas,3204005,2023-02-02,Espirito Santo,Brazil,-19.23,-40.85,28.6,19.9,23.9,NAO,0,Partly cloudy,05:31 AM,06:26 PM,5
+Pancas,3204005,2023-02-03,Espirito Santo,Brazil,-19.23,-40.85,30.5,20.3,24.1,NAO,0,Sunny,05:32 AM,06:26 PM,8.6
+Pancas,3204005,2023-02-04,Espirito Santo,Brazil,-19.23,-40.85,30.3,19,24.7,NAO,0,Sunny,05:32 AM,06:26 PM,6.5
+Pancas,3204005,2023-02-05,Espirito Santo,Brazil,-19.23,-40.85,30.9,21.5,24.3,SIM,83,Patchy rain possible,05:33 AM,06:25 PM,6.8
+Piuma,3204203,2023-02-01,Espirito Santo,Brazil,-20.83,-40.72,30.7,22.3,25.5,SIM,88,Patchy rain possible,05:26 AM,06:27 PM,27.4
+Piuma,3204203,2023-02-02,Espirito Santo,Brazil,-20.83,-40.72,30.9,22.7,25.9,NAO,0,Sunny,05:27 AM,06:27 PM,21.2
+Piuma,3204203,2023-02-03,Espirito Santo,Brazil,-20.83,-40.72,31.2,22.7,26.1,NAO,0,Sunny,05:27 AM,06:27 PM,24.8
+Piuma,3204203,2023-02-04,Espirito Santo,Brazil,-20.83,-40.72,32,23,26.5,NAO,0,Sunny,05:28 AM,06:26 PM,24.5
+Piuma,3204203,2023-02-05,Espirito Santo,Brazil,-20.83,-40.72,29.7,24,25.5,SIM,76,Patchy rain possible,05:29 AM,06:26 PM,14
+Rio Bananal,3204351,2023-02-01,Espirito Santo,Brazil,-19.27,-40.33,32.5,20.9,25.4,NAO,0,Partly cloudy,05:26 AM,06:23 PM,11.9
+Rio Bananal,3204351,2023-02-02,Espirito Santo,Brazil,-19.27,-40.33,33.4,21.3,25.7,NAO,0,Partly cloudy,05:26 AM,06:23 PM,12.6
+Rio Bananal,3204351,2023-02-03,Espirito Santo,Brazil,-19.27,-40.33,34.1,20.4,26.1,NAO,0,Sunny,05:27 AM,06:23 PM,12.6
+Rio Bananal,3204351,2023-02-04,Espirito Santo,Brazil,-19.27,-40.33,34.3,21.7,26.7,NAO,0,Partly cloudy,05:27 AM,06:22 PM,15.1
+Rio Bananal,3204351,2023-02-05,Espirito Santo,Brazil,-19.27,-40.33,33.1,22,25.1,NAO,0,Partly cloudy,05:28 AM,06:22 PM,14.8
+Rio Novo Do Sul,null,2023-02-01,Espirito Santo,Brazil,-20.87,-40.93,32.9,18.1,24.5,SIM,89,Patchy rain possible,05:27 AM,06:28 PM,7.6
+Rio Novo Do Sul,null,2023-02-02,Espirito Santo,Brazil,-20.87,-40.93,34.8,19.3,25.5,SIM,71,Patchy rain possible,05:28 AM,06:28 PM,6.5
+Rio Novo Do Sul,null,2023-02-03,Espirito Santo,Brazil,-20.87,-40.93,35.3,18.9,25.8,SIM,85,Patchy rain possible,05:29 AM,06:28 PM,6.8
+Rio Novo Do Sul,null,2023-02-04,Espirito Santo,Brazil,-20.87,-40.93,35.6,19.7,26.6,SIM,82,Patchy rain possible,05:29 AM,06:27 PM,7.6
+Rio Novo Do Sul,null,2023-02-05,Espirito Santo,Brazil,-20.87,-40.93,33.2,22,25.2,SIM,84,Patchy rain possible,05:30 AM,06:27 PM,6.8
+Santa Leopoldina,3204500,2023-02-01,Espirito Santo,Brazil,-20.1,-40.53,33.8,20.2,25.6,NAO,0,Sunny,05:26 AM,06:25 PM,17.6
+Santa Leopoldina,3204500,2023-02-02,Espirito Santo,Brazil,-20.1,-40.53,34.9,20.3,26.2,NAO,0,Sunny,05:26 AM,06:24 PM,15.5
+Santa Leopoldina,3204500,2023-02-03,Espirito Santo,Brazil,-20.1,-40.53,34.6,21.2,26.2,NAO,0,Sunny,05:27 AM,06:24 PM,16.9
+Santa Leopoldina,3204500,2023-02-04,Espirito Santo,Brazil,-20.1,-40.53,35.5,20.5,26.3,NAO,0,Sunny,05:27 AM,06:24 PM,15.1
+Santa Leopoldina,3204500,2023-02-05,Espirito Santo,Brazil,-20.1,-40.53,35.8,21.2,24.8,NAO,0,Sunny,05:28 AM,06:23 PM,13.7
+Sao Jose Do Calcado,null,2023-02-01,Espirito Santo,Brazil,-21.03,-41.67,31,18.6,24.5,SIM,79,Patchy rain possible,05:32 AM,06:34 PM,5.4
+Sao Jose Do Calcado,null,2023-02-02,Espirito Santo,Brazil,-21.03,-41.67,31.3,18.9,24.5,SIM,89,Patchy rain possible,05:33 AM,06:33 PM,5.8
+Sao Jose Do Calcado,null,2023-02-03,Espirito Santo,Brazil,-21.03,-41.67,31,20.2,25.3,SIM,89,Patchy rain possible,05:33 AM,06:33 PM,5.4
+Sao Jose Do Calcado,null,2023-02-04,Espirito Santo,Brazil,-21.03,-41.67,34,20,26,SIM,88,Moderate rain,05:34 AM,06:33 PM,9.7
+Sao Jose Do Calcado,null,2023-02-05,Espirito Santo,Brazil,-21.03,-41.67,34.1,21.1,24.5,SIM,87,Moderate rain,05:35 AM,06:32 PM,13.3
+Sao Mateus,3204906,2023-02-01,Espirito Santo,Brazil,-18.73,-39.85,31.8,21,25.1,SIM,89,Patchy rain possible,05:25 AM,06:22 PM,11.9
+Sao Mateus,3204906,2023-02-02,Espirito Santo,Brazil,-18.73,-39.85,32.6,21.5,25.8,NAO,0,Partly cloudy,05:26 AM,06:22 PM,11.5
+Sao Mateus,3204906,2023-02-03,Espirito Santo,Brazil,-18.73,-39.85,35,20.6,26.4,NAO,0,Sunny,05:27 AM,06:21 PM,11.9
+Sao Mateus,3204906,2023-02-04,Espirito Santo,Brazil,-18.73,-39.85,35.7,21.6,26.9,NAO,0,Partly cloudy,05:27 AM,06:21 PM,14.4
+Sao Mateus,3204906,2023-02-05,Espirito Santo,Brazil,-18.73,-39.85,33.9,22.2,25.7,NAO,0,Partly cloudy,05:28 AM,06:21 PM,14.4
+Serra,3205002,2023-02-01,Espirito Santo,Brazil,-20.12,-40.3,33.5,21.2,25.8,NAO,60,Patchy rain possible,05:25 AM,06:24 PM,18.7
+Serra,3205002,2023-02-02,Espirito Santo,Brazil,-20.12,-40.3,31.6,21.7,26.1,NAO,0,Sunny,05:26 AM,06:24 PM,16.6
+Serra,3205002,2023-02-03,Espirito Santo,Brazil,-20.12,-40.3,32.4,21.3,26.2,NAO,0,Sunny,05:26 AM,06:23 PM,17.3
+Serra,3205002,2023-02-04,Espirito Santo,Brazil,-20.12,-40.3,32.9,22.3,26.9,NAO,0,Sunny,05:27 AM,06:23 PM,17.3
+Serra,3205002,2023-02-05,Espirito Santo,Brazil,-20.12,-40.3,33.3,22.8,26,NAO,60,Patchy rain possible,05:28 AM,06:22 PM,16.6
+Vargem Alta,3205036,2023-02-01,Espirito Santo,Brazil,-20.67,-41,32.1,19.3,24.9,SIM,89,Patchy rain possible,05:27 AM,06:28 PM,7.9
+Vargem Alta,3205036,2023-02-02,Espirito Santo,Brazil,-20.67,-41,34.5,20.5,26.1,NAO,0,Sunny,05:28 AM,06:28 PM,6.8
+Vargem Alta,3205036,2023-02-03,Espirito Santo,Brazil,-20.67,-41,34.9,20.3,26.3,SIM,73,Patchy rain possible,05:29 AM,06:27 PM,6.8
+Vargem Alta,3205036,2023-02-04,Espirito Santo,Brazil,-20.67,-41,35.3,20.8,26.6,NAO,67,Patchy rain possible,05:29 AM,06:27 PM,7.6
+Vargem Alta,3205036,2023-02-05,Espirito Santo,Brazil,-20.67,-41,33.5,22.2,25.3,SIM,85,Patchy rain possible,05:30 AM,06:27 PM,6.8
+Vargem Alta,3205036,2023-02-01,Espirito Santo,Brazil,-20.67,-41,32.1,19.3,24.9,SIM,89,Patchy rain possible,05:27 AM,06:28 PM,7.9
+Vargem Alta,3205036,2023-02-02,Espirito Santo,Brazil,-20.67,-41,34.5,20.5,26.1,NAO,0,Sunny,05:28 AM,06:28 PM,6.8
+Vargem Alta,3205036,2023-02-03,Espirito Santo,Brazil,-20.67,-41,34.9,20.3,26.3,SIM,73,Patchy rain possible,05:29 AM,06:27 PM,6.8
+Vargem Alta,3205036,2023-02-04,Espirito Santo,Brazil,-20.67,-41,35.3,20.8,26.6,NAO,67,Patchy rain possible,05:29 AM,06:27 PM,7.6
+Vargem Alta,3205036,2023-02-05,Espirito Santo,Brazil,-20.67,-41,33.5,22.2,25.3,SIM,85,Patchy rain possible,05:30 AM,06:27 PM,6.8
+Viana,3205101,2023-02-01,Espirito Santo,Brazil,-20.38,-40.5,32.8,21.6,26.1,NAO,0,Sunny,05:25 AM,06:24 PM,24.5
+Viana,3205101,2023-02-02,Espirito Santo,Brazil,-20.38,-40.5,33.9,21.6,26.5,NAO,0,Sunny,05:26 AM,06:24 PM,23.4
+Viana,3205101,2023-02-03,Espirito Santo,Brazil,-20.38,-40.5,33.7,21.8,26.8,NAO,0,Sunny,05:26 AM,06:24 PM,23.8
+Viana,3205101,2023-02-04,Espirito Santo,Brazil,-20.38,-40.5,34.5,22.6,27.6,NAO,0,Sunny,05:27 AM,06:23 PM,23.8
+Viana,3205101,2023-02-05,Espirito Santo,Brazil,-20.38,-40.5,34.8,22.9,26.1,SIM,81,Patchy rain possible,05:28 AM,06:23 PM,20.2
+Vila Velha,3205200,2023-02-01,Espirito Santo,Brazil,-20.33,-40.28,31.7,22.9,26.5,SIM,87,Patchy rain possible,05:25 AM,06:24 PM,29.9
+Vila Velha,3205200,2023-02-02,Espirito Santo,Brazil,-20.33,-40.28,32.7,23.2,26.8,NAO,0,Sunny,05:26 AM,06:24 PM,30.2
+Vila Velha,3205200,2023-02-03,Espirito Santo,Brazil,-20.33,-40.28,32.5,23.1,27,NAO,0,Sunny,05:26 AM,06:23 PM,29.9
+Vila Velha,3205200,2023-02-04,Espirito Santo,Brazil,-20.33,-40.28,33.2,23.6,27.7,NAO,0,Sunny,05:27 AM,06:23 PM,32.4
+Vila Velha,3205200,2023-02-05,Espirito Santo,Brazil,-20.33,-40.28,33.6,24.1,26.5,SIM,89,Patchy rain possible,05:27 AM,06:23 PM,28.1
+Vitoria,3205309,2023-02-01,Espirito Santo,Brazil,-20.32,-40.35,32.8,21.6,26.1,NAO,0,Sunny,05:25 AM,06:24 PM,24.5
+Vitoria,3205309,2023-02-02,Espirito Santo,Brazil,-20.32,-40.35,33.9,21.6,26.5,NAO,0,Sunny,05:26 AM,06:24 PM,23.4
+Vitoria,3205309,2023-02-03,Espirito Santo,Brazil,-20.32,-40.35,33.7,21.8,26.8,NAO,0,Sunny,05:26 AM,06:24 PM,23.8
+Vitoria,3205309,2023-02-04,Espirito Santo,Brazil,-20.32,-40.35,34.5,22.6,27.6,NAO,0,Sunny,05:27 AM,06:23 PM,23.8
+Vitoria,3205309,2023-02-05,Espirito Santo,Brazil,-20.32,-40.35,34.8,22.9,26.1,SIM,81,Patchy rain possible,05:28 AM,06:23 PM,20.2
