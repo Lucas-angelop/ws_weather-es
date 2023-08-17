@@ -1,5 +1,5 @@
-# Desafio Autoglass
-Desafio com Pyspark para estruturar uma fonte com o clima dos próximos 5 dias para cada cidades do ES.  
+# Desafio Pyspark
+Desafio para estruturar uma fonte com o clima dos próximos 5 dias para cada cidades do Espírito Santo (ES).  
 
 O desafio foi dividido nas seguintes etapas:  
 
